@@ -1,7 +1,7 @@
 # Arduino Solar Tracker
 <div>
-  <img src="assets/2.png" alt="Image 1" width="49%" style="display:inline-block; vertical-align:middle;"/>
-  <img src="assets/1.png" alt="Image 2" width="49%" style="display:inline-block; vertical-align:middle;"/>
+  <img src="assets/2.png" alt="Image 1" width="45%" style="display:inline-block; vertical-align:middle;"/>
+  <img src="assets/3.gif" alt="Project Animation" width="20%"/>
 </div>
 
 ## Project Description
@@ -39,5 +39,4 @@ You can access the 3D model made with Tinkercad [here](https://www.tinkercad.com
   <img src="assets/model2.png" alt="Image 2" width="49%" style="display:inline-block; vertical-align:middle;"/>
 </div>
 
-## Demonstration Video
-<img src="assets/3.gif" alt="Project Animation" width="20%"/>
+
